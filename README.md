@@ -1,6 +1,6 @@
 # Countries Explore Flutter App( FLUTTER AND RESTCOUNTRIES API )
 <h4>THE REPOSITORY HAS BEEN UPDATED AS THE TASK SUBMISSION DEADLINE WAS EXTENDED</h4>
-A COUNTRY EXPLORING APP IN FLUTTER.<br>
+COUNTRY EXPLORE APP IN FLUTTER.<br>
 App demo screen recording has been added to the main repository<br>
 Steps to RUN THE APP:<br>
 1.) Fetch the repository<br>

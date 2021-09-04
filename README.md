@@ -1,4 +1,4 @@
-# Countries( FLUTTER AND RESTCOUNTRIES API )
+# Countries Explore Flutter App( FLUTTER AND RESTCOUNTRIES API )
 <h4>THE REPOSITORY HAS BEEN UPDATED AS THE TASK SUBMISSION DEADLINE WAS EXTENDED</h4>
 A COUNTRY EXPLORING APP IN FLUTTER.<br>
 App demo screen recording has been added to the main repository<br>

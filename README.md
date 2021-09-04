@@ -12,8 +12,8 @@ Bugs:
 
 <table>
   <tr>
-    <td><img src="https://github.com/tiquasar/flutter_restcountriesapi_app/blob/master/appdemo/file1%20%284%29.png" width=300 height=580></td>
-    <td><img src="https://github.com/tiquasar/flutter_restcountriesapi_app/blob/master/appdemo/file1%20%282%29.png" width=300 height=580></td>
+    <td><img src="https://github.com/tiquasar/flutter_restcountriesapi_app/blob/master/appdemo/file1%20%284%29.png" width=250 height=580></td>
+    <td><img src="https://github.com/tiquasar/flutter_restcountriesapi_app/blob/master/appdemo/file1%20%282%29.png" width=250 height=580></td>
     
   </tr>
   <tr>
